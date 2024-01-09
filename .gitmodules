@@ -1,0 +1,9 @@
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/ThrowTheSwitch/Unity
+[submodule "llhttp"]
+	path = llhttp
+	url = git@github.com:nodejs/llhttp.git
+[submodule "sds"]
+	path = sds
+	url = https://github.com/antirez/sds
