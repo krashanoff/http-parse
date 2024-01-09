@@ -5,9 +5,6 @@
 
 #include <sds.h>
 
-// A nonzero value enables logging to stderr in this library.
-static int DEBUG_ENABLED = 0;
-
 /* HTTP methods. */
 typedef enum llmethod_t {
   GET = 1,
